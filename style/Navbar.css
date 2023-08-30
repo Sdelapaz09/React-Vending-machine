@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: rgb(109, 109, 109);
+    text-align: center;
+    font-weight: bold;
+}
+
+.Navbar a:hover {
+    background-color: black;
+    color: white;
+}
+
+.Navbar a.active {
+    font-weight: bold;
+    color: black;
+}
